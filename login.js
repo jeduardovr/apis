@@ -1,22 +1,20 @@
-"members": [
+"credentials": [
     {
-      "name": "Molecule Man",
-      "age": 29,
-      "secretIdentity": "Dan Jukes",
-      "powers": [
-        "Radiation resistance",
-        "Turning tiny",
-        "Radiation blast"
+      "username": "jvelazquez",
+      "password": "123456",
+      "information": [
+          "name": "Eduardo Velazquez",
+          "age": 27
+          "email": "eduardovelazquez700@gmail.com"
       ]
     },
     {
-      "name": "Madame Uppercut",
-      "age": 39,
-      "secretIdentity": "Jane Wilson",
-      "powers": [
-        "Million tonne punch",
-        "Damage resistance",
-        "Superhuman reflexes"
+      "username": "lmoncada",
+      "password": "123456",
+      "information": [
+          "name": "Luis Moncada",
+          "age": 27
+          "email": "mail@gmail.com"
       ]
     }
 ]
