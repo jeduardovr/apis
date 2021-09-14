@@ -1,4 +1,4 @@
 {
-  "estatus" : 0,
-  "mensaje" : "Registro Exitoso"
+  "estatus" : 1,
+  "mensaje" : "Error"
 }
